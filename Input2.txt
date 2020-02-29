@@ -1,0 +1,10 @@
+M
+8
+-Q OR -R OR S
+-U OR R
+-G OR -S OR M
+-H OR Q
+-U OR -N OR K
+H
+G
+U

@@ -1,0 +1,134 @@
+8
+-Q OR S OR -U
+-G OR M OR -Q OR -R
+-H OR -R OR S
+R
+M OR -S
+-G OR -S
+Q
+K OR -N
+24
+-Q OR S
+M OR -Q OR -R
+-G OR -Q OR -R
+-R OR S
+-G OR M OR -Q OR -U
+-H OR S OR -U
+-G OR M OR -Q OR -U
+-G OR -H OR M OR -R
+-H OR S OR -U
+-G OR -H OR M OR -R
+-R OR S
+M OR -Q OR -R
+-S
+-Q OR S
+-G OR -Q OR -R
+-S
+M OR -Q OR -U
+-G OR -Q OR -U
+S OR -U
+-G OR M OR -Q
+-G OR M OR -R
+-H OR S
+-H OR M OR -R
+-G OR -H OR -R
+92
+-Q OR -R
+-Q OR -R
+-G OR -H OR M OR -U
+-G OR -H OR M OR -U
+-G OR M OR -U
+-H OR M OR -U
+-G OR -H OR -U
+-G OR -H OR M OR -U
+-G OR -H OR M OR -U
+-G OR M OR -U
+-G OR -H OR M
+-G OR -H OR M OR -U
+-G OR -H OR M OR -U
+-H OR M OR -U
+-G OR -H OR -U
+-G OR -H OR M
+S
+M OR -R
+-G OR -R
+-Q OR -R
+-Q OR -R
+-Q OR -U
+M OR -Q
+M OR -R
+-H OR -R
+M OR -Q
+-G OR -Q
+S
+-Q OR -R
+-Q OR -R
+-Q OR -U
+-G OR -Q
+-G OR -R
+-H OR -R
+-Q OR -U
+-Q OR -U
+-H OR -R
+-H OR -R
+M OR -Q
+-G OR -Q
+S
+-G OR -H OR M
+-G OR -H OR M
+S
+M OR -Q
+-G OR -Q
+-G OR M
+-H OR M
+-G OR -H
+M OR -Q
+M OR -R
+-H OR M OR -U
+-H OR M OR -U
+M OR -R
+M OR -Q
+M OR -U
+-H OR M
+-G OR -Q
+-G OR -R
+-G OR -H OR -U
+-G OR -H OR -U
+-G OR -R
+-G OR -Q
+-G OR -U
+-G OR -H
+S
+M OR -R
+-G OR -R
+-G OR M OR -U
+-G OR M OR -U
+M OR -R
+S
+-G OR -R
+M OR -U
+-G OR -U
+-G OR M
+-Q
+-Q
+-R
+-R
+-H OR -U
+-H OR -U
+-H OR -U
+-H OR -U
+-R
+-R
+-Q
+-U
+-H
+-Q
+-U
+-H
+5
+M
+-G
+M
+-G
+{}
+YES
